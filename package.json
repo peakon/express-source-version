@@ -1,0 +1,19 @@
+{
+  "name": "express-source-version",
+  "version": "1.0.0",
+  "description": "Middleware for express to export the current source version",
+  "main": "index.js",
+  "author": "Christian Holm <christian@peakon.com> (https://peakon.com/)",
+   "repository": {
+    "type": "git",
+    "url": "git@github.com:peakon/express-source-version.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.33",
+    "git-rev": "^0.2.1"
+  },
+  "files": [
+  	"index.js"
+  ]
+}
